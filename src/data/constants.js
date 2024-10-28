@@ -213,7 +213,7 @@ export const skills = [
       },
       {
         name: "CloudWatch",
-        image: "https://codeopinion.com/wp-content/uploads/2019/08/aws-cloudwatch-logo-png-transparent.png",
+        image: "",
       },
       {
         name: "CloudTrial",
@@ -221,6 +221,47 @@ export const skills = [
       },
     ],
   },
+  {
+    title: "CICD Tools",
+    skills: [
+      {
+        name: "EC2",
+        image: "https://www.logicata.com/wp-content/uploads/2020/08/Amazon-EC2@4x-e1593195270371.png",
+      },
+      {
+        name: "EKS",
+        image: "https://static-00.iconduck.com/assets.00/amazon-eks-icon-1823x2048-53p7vv52.png",
+      },
+      {
+        name: "Code Pipeline",
+        image: "https://static-00.iconduck.com/assets.00/developertools-awscodepipeline-icon-212x256-hvau13wg.png",
+      },
+      {
+        name: "ECS",
+        image: "https://cdn.icon-icons.com/icons2/2699/PNG/512/amazon_ecs_logo_icon_168660.png",
+      },
+      {
+        name: "ECR",
+        image: "https://cdn.prod.website-files.com/622134a7316eb7ab1c7dc85f/666877454ce8aec95644b160_AWS%20ECR%20icon.png",
+      },
+      {
+        name: "ELB",
+        image: "https://cdnlogo.com/logos/a/57/aws-elastic-load-balancing.svg",
+      },
+      {
+        name: "Lambda",
+        image: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Amazon_Lambda_architecture_logo.png",
+      },
+      {
+        name: "CloudWatch",
+        image: "",
+      },
+      {
+        name: "CloudTrial",
+        image: "https://static-00.iconduck.com/assets.00/managementtools-awscloudtrail-icon-211x256-2llkby6e.png",
+      },
+    ],
+  }
 ];
 
 
