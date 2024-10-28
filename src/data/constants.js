@@ -225,7 +225,7 @@ export const skills = [
     title: "CICD Tools",
     skills: [
       {
-        name: "EC2",
+        name: "Jenkins",
         image: "https://www.logicata.com/wp-content/uploads/2020/08/Amazon-EC2@4x-e1593195270371.png",
       },
       {
