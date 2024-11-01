@@ -855,16 +855,16 @@ export const education = [
 
 export const projects = [
   {
-    id: 9,
-    title: "Trackify",
-    date: "Jun 2023 - Jul 2023",
+    id: 0,
+    title: "Microsoft Certified DevOps Engineer Expert",
+    date: "Oct 2024",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      "The Microsoft Certified: DevOps Engineer Expert certification is designed for professionals skilled in combining people, processes, and technologies to deliver valuable products and services that meet business objectives. This certification validates expertise in DevOps practices and tools used to streamline development, deployment, and management across Microsoft Azure and other environments.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      "https://drive.google.com/uc?export=view&id=1wKp0NYr-Tkh7oZ44x1BCT3d7vkJflzVFD2B_h-Ig318",
     tags: [
-      "Docker",
-      "AWS",
+      "AZ400",
+      "Azure",
       "DuckDNS",
       "Eslint",
       "Husky",
