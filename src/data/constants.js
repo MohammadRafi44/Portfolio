@@ -884,6 +884,81 @@ export const projects = [
     github: "https://github.com/rishavchanda/Trackify",
     webapp: "https://trackify.duckdns.org",
   },
+  {
+    id: 2,
+    title: "Microsoft Certified Azure Administrator Associate",
+    date: "Nov 2024",
+    description:
+      "The Microsoft Certified: Azure Administrator Associate certification validates the skills necessary to manage and monitor an organization’s Microsoft Azure environment. It is designed for IT professionals responsible for implementing, managing, and monitoring Azure resources, as well as configuring virtual networks, securing identities, and ensuring consistent performance and availability."  ,
+    image:
+      "https://raw.githubusercontent.com/MohammadRafi44/Portfolio/master/src/images/Microsoft%20Certified%20Azure%20Administrator%20Associate%20-Certificate.png",
+    tags: [
+      // "CI/CD",
+    ],
+    category: "web app",
+    github: "https://github.com/rishavchanda/Trackify",
+    webapp: "https://trackify.duckdns.org",
+  },
+  {
+    id: 3,
+    title: "Microsoft Ceritified Azure Fundamentals",
+    date: "jun 2022",
+    description:
+      "The Microsoft Certified: Azure Fundamentals certification is an entry-level certification that provides foundational knowledge of Microsoft Azure, making it ideal for individuals beginning their journey with cloud services. This certification validates a basic understanding of cloud concepts, core Azure services, Azure pricing, and support, along with Azure’s security, privacy, compliance, and trust principles."  ,
+    image:
+      "https://raw.githubusercontent.com/MohammadRafi44/Portfolio/master/src/images/Azure%20Az900%20Fundamentals_Certificate.png",
+    tags: [
+      // "CI/CD",
+    ],
+    category: "web app",
+    github: "https://github.com/rishavchanda/Trackify",
+    webapp: "https://trackify.duckdns.org",
+  },
+  {
+    id: 4,
+    title: "AWS Certified Cloud Practitioner",
+    date: "Jan 2024",
+    description:
+      "The AWS Certified Cloud Practitioner certification provides a foundational understanding of AWS Cloud concepts, making it ideal for individuals new to cloud technology or looking to validate their general knowledge of the AWS Cloud. This entry-level certification covers essential AWS services, core concepts of cloud computing, and basic security and compliance aspects, along with pricing models and billing practices on AWS."  ,
+    image:
+      "https://raw.githubusercontent.com/MohammadRafi44/Portfolio/master/src/images/AWS%20Certified%20Cloud%20Practitioner%20Certificate.png",
+    tags: [
+      // "CI/CD",
+    ],
+    category: "web app",
+    github: "https://github.com/rishavchanda/Trackify",
+    webapp: "https://trackify.duckdns.org",
+  },
+  {
+    id: 5,
+    title: "Tricentis Tosca Product Consultant Certification",
+    date: "Oct 2024",
+    description:
+      "The Tricentis Tosca Product Consultant Certification validates expertise in using Tricentis Tosca to design, execute, and manage automated tests across enterprise applications. This certification demonstrates an individual’s ability to leverage Tosca’s model-based testing approach to create robust test automation frameworks that enhance software quality and accelerate release cycles."  ,
+    image:
+      "https://raw.githubusercontent.com/MohammadRafi44/Portfolio/master/src/images/AWS%20Certified%20Cloud%20Practitioner%20Certificate.png",
+    tags: [
+      // "CI/CD",
+    ],
+    category: "web app",
+    github: "https://github.com/rishavchanda/Trackify",
+    webapp: "https://trackify.duckdns.org",
+  },
+  {
+    id: 6,
+    title: "",
+    date: "Oct 2024",
+    description:
+      "The Tricentis Tosca Product Consultant Certification validates expertise in using Tricentis Tosca to design, execute, and manage automated tests across enterprise applications. This certification demonstrates an individual’s ability to leverage Tosca’s model-based testing approach to create robust test automation frameworks that enhance software quality and accelerate release cycles."  ,
+    image:
+      "https://raw.githubusercontent.com/MohammadRafi44/Portfolio/master/src/images/AWS%20Certified%20Cloud%20Practitioner%20Certificate.png",
+    tags: [
+      // "CI/CD",
+    ],
+    category: "web app",
+    github: "https://github.com/rishavchanda/Trackify",
+    webapp: "https://trackify.duckdns.org",
+  },
 ];
 
 export const TimeLineData = [
