@@ -874,9 +874,9 @@ export const projects = [
     title: "AWS Certified DevOps Engineer - Professional",
     date: "Oct 2024",
     description:
-      "The Microsoft Certified: DevOps Engineer Expert certification is designed for professionals skilled in combining people, processes, and technologies to deliver valuable products and services that meet business objectives. This certification validates expertise in DevOps practices and tools used to streamline development, deployment, and management across Microsoft Azure and other environments."  ,
+      "The AWS Certified DevOps Engineer - Professional certification validates expertise in managing and automating AWS environments with a focus on continuous integration, continuous delivery (CI/CD), security, monitoring, and governance. Aimed at experienced DevOps professionals, this certification demonstrates the ability to design, operate, and optimize production environments on AWS efficiently."  ,
     image:
-      "https://raw.githubusercontent.com/MohammadRafi44/Portfolio/master/src/images/Microsoft%20Certified%20DevOps%20Engineer%20Expert%20-%20Certificate.png",
+      "https://raw.githubusercontent.com/MohammadRafi44/Portfolio/master/src/images/AWS%20Certified%20DevOps%20Engineer%20-%20Professional%20certificate.png",
     tags: [
       // "CI/CD",
     ],
