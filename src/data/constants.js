@@ -946,12 +946,42 @@ export const projects = [
   },
   {
     id: 6,
-    title: "",
+    title: "Advaced Level Test Automation Engineer",
     date: "Oct 2024",
     description:
-      "The Tricentis Tosca Product Consultant Certification validates expertise in using Tricentis Tosca to design, execute, and manage automated tests across enterprise applications. This certification demonstrates an individual’s ability to leverage Tosca’s model-based testing approach to create robust test automation frameworks that enhance software quality and accelerate release cycles."  ,
+      "The ISTQB Advanced Level Test Automation Engineer certification is designed for professionals who want to demonstrate expertise in designing, developing, and maintaining test automation solutions. This certification equips individuals with advanced knowledge in building and scaling effective test automation frameworks and understanding the complexities involved in automation processes within a software development lifecycle.",
     image:
-      "https://raw.githubusercontent.com/MohammadRafi44/Portfolio/master/src/images/AWS%20Certified%20Cloud%20Practitioner%20Certificate.png",
+      "https://raw.githubusercontent.com/MohammadRafi44/Portfolio/master/src/images/20-CTAL-TAE-186504-06-1.jpg",
+    tags: [
+      // "CI/CD",
+    ],
+    category: "web app",
+    github: "https://github.com/rishavchanda/Trackify",
+    webapp: "https://trackify.duckdns.org",
+  },
+  {
+    id: 7,
+    title: "Prince2 Project Management - Foundation",
+    date: "Oct 2023",
+    description:
+      "The PRINCE2® Foundation certification provides a comprehensive introduction to the PRINCE2 (Projects IN Controlled Environments) project management methodology, which is widely recognized and practiced in various industries around the world. This certification demonstrates an understanding of the core principles, processes, and themes of PRINCE2, equipping individuals with the skills to participate effectively in a PRINCE2-managed project.",
+    image:
+      "https://raw.githubusercontent.com/MohammadRafi44/Portfolio/master/src/images/20-CTAL-TAE-186504-06-1.jpg",
+    tags: [
+      // "CI/CD",
+    ],
+    category: "web app",
+    github: "https://github.com/rishavchanda/Trackify",
+    webapp: "https://trackify.duckdns.org",
+  },
+  {
+    id: 8,
+    title: "Scrum Master",
+    date: "Oct 2023",
+    description:
+      "The PRINCE2® Foundation certification provides a comprehensive introduction to the PRINCE2 (Projects IN Controlled Environments) project management methodology, which is widely recognized and practiced in various industries around the world. This certification demonstrates an understanding of the core principles, processes, and themes of PRINCE2, equipping individuals with the skills to participate effectively in a PRINCE2-managed project.",
+    image:
+      "https://raw.githubusercontent.com/MohammadRafi44/Portfolio/master/src/images/20-CTAL-TAE-186504-06-1.jpg",
     tags: [
       // "CI/CD",
     ],
